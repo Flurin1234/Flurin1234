@@ -2,7 +2,7 @@
 - 👀 I’m interested in alles
 - 🌱 I’m currently learning nix
 - 💞️ I’m looking to collaborate on conterization with Tobias
-- 📫 How to reach me: Dont reach me
+- 📫 How to reach me: Via the Autobahn A4
 - 😄 Pronouns: Autobahn
 - ⚡ Fun fact: I like Pelikane
 
