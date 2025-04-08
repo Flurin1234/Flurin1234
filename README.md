@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flurin1234
-- 👀 I’m interested in Femboys
-- 🌱 I’m currently learning Albanisch
+- 👀 I’m interested in alles
+- 🌱 I’m currently learning nix
 - 💞️ I’m looking to collaborate on conterization with Tobias
 - 📫 How to reach me: Dont reach me
 - 😄 Pronouns: Autobahn
